@@ -1,0 +1,6 @@
+
+#to activate venv:
+myvenv\Scripts\activate
+
+#to start server:
+
