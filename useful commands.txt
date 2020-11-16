@@ -3,4 +3,4 @@
 myvenv\Scripts\activate
 
 #to start server:
-
+python manage.py runserver
